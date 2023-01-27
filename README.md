@@ -1,1 +1,1 @@
-# zalora
+# MyStyle
